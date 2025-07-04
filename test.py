@@ -6,3 +6,4 @@
 
 #checking stuff after rebasing
 
+# add some stuff to test git stash when diverged
